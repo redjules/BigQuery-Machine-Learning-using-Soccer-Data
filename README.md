@@ -10,3 +10,6 @@ In this project, I have:
 - Written functions in BigQuery to help with calculations to be performed on soccer shot data
 - Created and evaluated "expected goals" models using BigQuery ML
 - Applied an expected goals model to "new" data using BigQuery ML
+
+
+![image](https://github.com/redjules/BigQuery-Machine-Learning-using-Soccer-Data/assets/106017493/57eda938-c84d-461a-8f96-98834a0d5311)
